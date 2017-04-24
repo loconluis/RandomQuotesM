@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway:400i,600');
+body{
+	background-color: #4a776c;
+	font-family: 'Raleway', sans-serif;
+}
+#card{
+	margin-top: 180px;
+	padding: 20px 30px;
+	background-color: #ffffff;
+	border-radius: 7px;
+}
+.quote{
+	font-size: 2.5em;
+	padding-left: 10px;
+}
+.author{
+	font-weight: 400;
+	font-style: italic;
+	font-size: 1.2em;
+	padding-right: 8px;
+}
+#quoteDisplay{
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+#authorDisplay{
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.btn-default{
+	color:#ffffff;
+	background-color: #4a776c;
+}
+.btn-default:hover, .btn-default:focus{
+	color:#ffffff;
+	background-color: #4a776c;
+}
+#foot{
+	margin-top: 20px;
+	color:#ffffff;
+}
+#foot a{
+	color:#ffffff;
+	font-weight: bold;
+}
